@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: laser_usv
+Version: 0.0.1
+Summary: Nó para leitura e publicação dos sensores via ROS 2.
+License: Apache-2.0
+Requires-Dist: setuptools
+Dynamic: license
+Dynamic: requires-dist
+Dynamic: summary

@@ -1,0 +1,2 @@
+[console_scripts]
+sensor_bridge = laser_usv.sensor_bridge:main

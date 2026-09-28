@@ -1,0 +1,37 @@
+running egg_info
+creating build/laser_usv/laser_usv.egg-info
+writing build/laser_usv/laser_usv.egg-info/PKG-INFO
+writing dependency_links to build/laser_usv/laser_usv.egg-info/dependency_links.txt
+writing entry points to build/laser_usv/laser_usv.egg-info/entry_points.txt
+writing requirements to build/laser_usv/laser_usv.egg-info/requires.txt
+writing top-level names to build/laser_usv/laser_usv.egg-info/top_level.txt
+writing manifest file 'build/laser_usv/laser_usv.egg-info/SOURCES.txt'
+reading manifest file 'build/laser_usv/laser_usv.egg-info/SOURCES.txt'
+writing manifest file 'build/laser_usv/laser_usv.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/duda/ros2_ws/src/LASER_PIBIC/build/laser_usv/build/lib/laser_usv
+copying laser_usv/setup.py -> /home/duda/ros2_ws/src/LASER_PIBIC/build/laser_usv/build/lib/laser_usv
+copying laser_usv/boat_sensor_node.py -> /home/duda/ros2_ws/src/LASER_PIBIC/build/laser_usv/build/lib/laser_usv
+copying laser_usv/__init__.py -> /home/duda/ros2_ws/src/LASER_PIBIC/build/laser_usv/build/lib/laser_usv
+copying laser_usv/sensor_server.py -> /home/duda/ros2_ws/src/LASER_PIBIC/build/laser_usv/build/lib/laser_usv
+running install
+running install_lib
+creating /home/duda/ros2_ws/src/LASER_PIBIC/install/laser_usv/lib/python3.10/site-packages/laser_usv
+copying /home/duda/ros2_ws/src/LASER_PIBIC/build/laser_usv/build/lib/laser_usv/setup.py -> /home/duda/ros2_ws/src/LASER_PIBIC/install/laser_usv/lib/python3.10/site-packages/laser_usv
+copying /home/duda/ros2_ws/src/LASER_PIBIC/build/laser_usv/build/lib/laser_usv/boat_sensor_node.py -> /home/duda/ros2_ws/src/LASER_PIBIC/install/laser_usv/lib/python3.10/site-packages/laser_usv
+copying /home/duda/ros2_ws/src/LASER_PIBIC/build/laser_usv/build/lib/laser_usv/__init__.py -> /home/duda/ros2_ws/src/LASER_PIBIC/install/laser_usv/lib/python3.10/site-packages/laser_usv
+copying /home/duda/ros2_ws/src/LASER_PIBIC/build/laser_usv/build/lib/laser_usv/sensor_server.py -> /home/duda/ros2_ws/src/LASER_PIBIC/install/laser_usv/lib/python3.10/site-packages/laser_usv
+byte-compiling /home/duda/ros2_ws/src/LASER_PIBIC/install/laser_usv/lib/python3.10/site-packages/laser_usv/setup.py to setup.cpython-310.pyc
+byte-compiling /home/duda/ros2_ws/src/LASER_PIBIC/install/laser_usv/lib/python3.10/site-packages/laser_usv/boat_sensor_node.py to boat_sensor_node.cpython-310.pyc
+byte-compiling /home/duda/ros2_ws/src/LASER_PIBIC/install/laser_usv/lib/python3.10/site-packages/laser_usv/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/duda/ros2_ws/src/LASER_PIBIC/install/laser_usv/lib/python3.10/site-packages/laser_usv/sensor_server.py to sensor_server.cpython-310.pyc
+running install_data
+creating /home/duda/ros2_ws/src/LASER_PIBIC/install/laser_usv/share/ament_index/resource_index/packages
+copying resource/laser_usv -> /home/duda/ros2_ws/src/LASER_PIBIC/install/laser_usv/share/ament_index/resource_index/packages
+copying package.xml -> /home/duda/ros2_ws/src/LASER_PIBIC/install/laser_usv/share/laser_usv
+running install_egg_info
+Copying build/laser_usv/laser_usv.egg-info to /home/duda/ros2_ws/src/LASER_PIBIC/install/laser_usv/lib/python3.10/site-packages/laser_usv-0.0.1-py3.10.egg-info
+running install_scripts
+Installing sensor_bridge script to /home/duda/ros2_ws/src/LASER_PIBIC/install/laser_usv/lib/laser_usv
+writing list of installed files to '/home/duda/ros2_ws/src/LASER_PIBIC/build/laser_usv/install.log'
